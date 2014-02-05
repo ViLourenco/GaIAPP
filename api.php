@@ -40,9 +40,9 @@
 		public $data = "";
 		
 		const DB_SERVER = "localhost";
-		const DB_USER = "godandia_usercls";
-		const DB_PASSWORD = "3D^398RtE3#4;3$";
-		const DB = "godandia_giapp";
+		const DB_USER = "";
+		const DB_PASSWORD = "";
+		const DB = "godandia_giap";
 		
 		private $db = NULL;
 	
