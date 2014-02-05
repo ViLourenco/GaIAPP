@@ -42,7 +42,7 @@
 		const DB_SERVER = "localhost";
 		const DB_USER = "";
 		const DB_PASSWORD = "";
-		const DB = "godandia_giap";
+		const DB = "";
 		
 		private $db = NULL;
 	
